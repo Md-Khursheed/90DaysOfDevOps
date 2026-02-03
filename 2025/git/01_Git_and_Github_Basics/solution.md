@@ -14,7 +14,7 @@ This document contains a step-by-step guide on completing the Week 4 Challenge o
 
 ### 🖼 Example of Your Forked Repo:
 
-![Forked Repository](images/Screenshot 2026-02-02 203840.png)
+![Forked Repository](images/forked-repo.png)
 
 ### 2️⃣ Clone the Forked Repository
 
@@ -80,13 +80,13 @@ git push origin feature-update
 
 🖼 Example of Opening a Pull Request:
 
-![Opening Pull Request](images/Screenshot 2026-02-02 223659.png)
+![Opening Pull Request](images/pr-open.png)
 
 🖼 Example of Merging a PR:
 
-![PR Merge Step 1](images/Screenshot 2026-02-02 223840.png)
+![PR Merge Step 1](images/pr-merge-1.png)
 
-![PR Merge Step 2](images/Screenshot 2026-02-02 223925.png)
+![PR Merge Step 2](images/pr-merge-2.png)
 
 ## 🔒 Task 6: SSH Authentication
 ### 1️⃣ Generate SSH Key
